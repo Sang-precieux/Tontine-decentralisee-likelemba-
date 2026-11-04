@@ -7,15 +7,6 @@
 > Faculté des Sciences et Technologies · Mention Mathématiques, Statistiques et Informatique  
 > Master 1 · Cours de Blockchain et cryptomonnaies · Groupe 07 · Année académique 2025–2026
 
-| Nom complet |
-|---|
-| MALEBA DIYAZOLA SANG PRECIEUX |
-| NAKALENGI MBUDA DIEU A VU |
-
-**Établissement :** [UNIKIN / RÉSEAU & SÉCURITÉ]  
-**Cours :** [BLOCKCHAIN ET CRYPTOMONNAIE]  
-**Année académique :** [2025-2026]
-
 ## 1. Présentation du projet
 
 **Likelemba V2** est un prototype d'application décentralisée (**DApp**) destiné à la gestion d'une tontine, appelée *likelemba* en République démocratique du Congo. Dans une tontine rotative, des membres contribuent à une caisse commune ; à chaque tour, un bénéficiaire reçoit la cagnotte conformément aux règles convenues.
