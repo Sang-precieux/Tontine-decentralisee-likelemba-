@@ -2,9 +2,19 @@
 
 **Épargne solidaire 3.0 | React · Solidity · ethers.js · MetaMask · Ethereum Sepolia**
 
+
 > **Projet académique — Université de Kinshasa (UNIKIN)**  
 > Faculté des Sciences et Technologies · Mention Mathématiques, Statistiques et Informatique  
 > Master 1 · Cours de Blockchain et cryptomonnaies · Groupe 07 · Année académique 2025–2026
+
+| Nom complet |
+|---|
+| MALEBA DIYAZOLA SANG PRECIEUX |
+| NAKALENGI MBUDA DIEU A VU |
+
+**Établissement :** [UNIKIN / RÉSEAU & SÉCURITÉ]  
+**Cours :** [BLOCKCHAIN ET CRYPTOMONNAIE]  
+**Année académique :** [2025-2026]
 
 ## 1. Présentation du projet
 
